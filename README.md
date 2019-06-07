@@ -1,2 +1,2 @@
 # FinexboxToken
-FinexboxToken (FNB) - Next BNB,HT,OKB
+FinexboxToken (FNB) - Next BNB,HT,OKB, RHP
